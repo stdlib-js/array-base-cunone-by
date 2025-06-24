@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-06-24)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`28a6474`](https://github.com/stdlib-js/stdlib/commit/28a64749d12c05ecd840af6f5a4e14a343c6efc0) - **docs:** fix example code _(by Philipp Burckhardt)_
 -   [`cf7d38a`](https://github.com/stdlib-js/stdlib/commit/cf7d38ae3e7bce92cf47778f7b1c3da731121d77) - **docs:** update related packages sections [(#3527)](https://github.com/stdlib-js/stdlib/pull/3527) _(by stdlib-bot)_
 -   [`2c4e5d8`](https://github.com/stdlib-js/stdlib/commit/2c4e5d824e0c5dc8fd536bf79ff565cee100ce46) - **build:** disable additional lint rule in TS tests _(by Philipp Burckhardt)_
 -   [`6207381`](https://github.com/stdlib-js/stdlib/commit/62073818e83d5bdd87b2b8ffea18a43767f1ae29) - **chore:** minor clean-up _(by Philipp Burckhardt)_
