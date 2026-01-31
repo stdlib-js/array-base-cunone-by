@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cunoneBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cunone-by@deno/mod.js';
+import cunoneBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cunone-by@v0.1.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cunone-by@deno/mod.js';
+import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cunone-by@v0.1.0-deno/mod.js';
 ```
 
 #### cunoneBy( x, predicate\[, thisArg ] )
@@ -130,7 +130,7 @@ var bool = ( out === y );
 
 ```javascript
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-bernoulli@deno/mod.js';
-import cunoneBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cunone-by@deno/mod.js';
+import cunoneBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-cunone-by@v0.1.0-deno/mod.js';
 
 function fcn( value ) {
     return ( value > 0 );
