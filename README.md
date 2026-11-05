@@ -68,7 +68,7 @@ var cunoneBy = require( '@stdlib/array-base-cunone-by' );
 Cumulatively tests whether every array element in a provided array fails a test implemented by a predicate function.
 
 ```javascript
-function fcn( value) {
+function fcn( value ) {
     return ( value > 0 );
 }
 
